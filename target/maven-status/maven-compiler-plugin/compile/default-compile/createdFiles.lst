@@ -1,0 +1,17 @@
+com\niit\Config\SpringConfig.class
+com\niit\DAO\ProductDAO.class
+com\niit\domain\Supplier.class
+com\niit\ProjectBackend\CustomerApp.class
+com\niit\ProjectBackend\ProductApp.class
+com\niit\DAOImpl\CustomerDAOImpl.class
+com\niit\ProjectBackend\SupplierApp.class
+com\niit\DAO\SupplierDAO.class
+com\niit\DAOImpl\CategoryDAOImpl.class
+com\niit\domain\Customer.class
+com\niit\domain\Product.class
+com\niit\ProjectBackend\CategoryApp.class
+com\niit\DAO\CustomerDAO.class
+com\niit\DAO\CategoryDAO.class
+com\niit\DAOImpl\SupplierDAOImpl.class
+com\niit\DAOImpl\ProductDAOImpl.class
+com\niit\domain\Category.class
